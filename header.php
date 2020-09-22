@@ -63,7 +63,7 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Employee:</h6>
-            <a class="collapse-item" href="employee.php">View employee</a>
+            <a class="collapse-item" href="employee.php">Add employee</a>
             <a class="collapse-item" href="employee_view.php">Employee list</a>
             
              
@@ -126,6 +126,23 @@
       <div class="sidebar-heading">
         Addons
       </div>
+       <!-- Nav Item - Pages Collapse Menu -->
+      <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+          <i class="fas fa-fw fa-cog"></i>
+          <span>Faculty</span>
+        </a>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <h6 class="collapse-header">Faculty:</h6>
+            <a class="collapse-item" href="faculty.php">Add Faculty</a>
+            <a class="collapse-item" href="faculty_view.php">Faculty list</a>
+            
+             
+          </div>
+        </div>
+      </li>
+
 
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">

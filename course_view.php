@@ -15,7 +15,7 @@ $query=mysqli_query($mysqli,$sql);
     <thead>
       <tr>
         <th>id</th>
-        <th>course name</th>
+        <th>course Name</th>
       </tr>
     </thead>
     <tbody>
